@@ -1,0 +1,60 @@
+/* Colors*/
+.color1 {color: #541902;}
+.color2 {color: #803608;}
+.color3 {color: #b75f11;}
+.color4 {color: #fc991d;}
+.color5 {color: #ffe12f;}
+
+.pb-50 {
+	padding-bottom: 50px;
+}
+
+.footer-section {
+	background: #541902;
+	padding-top: 43px;
+	overflow: hidden;
+}
+
+.footer-section .single-footer-widget {
+	margin-bottom: 25px;
+}
+
+.footer-section .single-footer-widget h5 {
+	font-size: 1.5rem;
+	line-height: 42px;
+	color: #ffff;
+}
+
+.footer-section .single-footer-widget .widget-text {
+	position: relative;
+}
+
+.footer-section .single-footer-widget .widget-text i {
+	position: absolute;
+	left: 0;
+	top: 3px;
+	font-size: 20px;
+	color: #ffff;
+}
+
+.footer-section .single-footer-widget .widget-text p {
+	font-size: 1rem;
+	line-height: 24px;
+	letter-spacing: 0.5px;
+	color: #ffffff;
+	margin-left: 30px;
+}
+
+.footer-section .developers-area {
+	overflow: hidden;
+	padding: 30px 0;
+	border-top: 1px solid #b75f11;
+}
+
+.footer-section .developers-area .developers-text {
+	text-align: center;
+	font-size: 1rem;
+	font-weight: 400;
+	color: #ffffff;
+	line-height: 15px;
+}
